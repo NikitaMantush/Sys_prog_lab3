@@ -1,0 +1,5 @@
+итого 16
+drwxrwxr-x 4 nikita nikita 4096 кас 16 12:28 .
+drwxrwxr-x 5 nikita nikita 4096 кас 16 12:26 ..
+drwxrwxr-x 2 nikita nikita 4096 кас 16 12:51 awk-examples
+drwxrwxr-x 7 nikita nikita 4096 кас 16 12:31 .git

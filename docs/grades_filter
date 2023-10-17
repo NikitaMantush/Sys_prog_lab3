@@ -1,0 +1,14 @@
+{
+  name = $1 " " $2
+  total = 0
+  count = 0
+  for (i = 3; i <= NF; i++) {
+    total += $i
+    count++
+  }
+  average = total / count
+
+  printf "\n%s:\n", name
+  printf "\n   сумма баллов: %d\n", total
+  printf "\n   средний балл: %.2f\n", average
+}

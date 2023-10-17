@@ -1,0 +1,10 @@
+{
+  if ($5 < 6000) {
+    model = toupper($1 " " $2)
+    print model, $3, $4, $5
+    total += $5
+  }
+}
+END {
+  print "Суммарная стоимость:", total
+}
