@@ -1,0 +1,6 @@
+./Mantush3.txt:Mantush
+./Mantush1.txt:Mantush
+./lastnames.txt:./Mantush3.txt:Mantush
+./lastnames.txt:./Mantush1.txt:Mantush
+./Mantush5.txt:Mantush
+./Mantush2.txt:Mantush
